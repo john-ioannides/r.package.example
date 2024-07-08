@@ -3,6 +3,4 @@
 
 An example package for the workshop.
 
-## this is a test
-
-### this is a second test
+## this is a test in a new_branch
